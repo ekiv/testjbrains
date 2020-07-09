@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "jbrainsci", "jbrainsci.csproj", "{8F0110CC-FF30-4C7E-8D49-FEB63919E524}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTestProject1", "..\XUnitTestProject1\XUnitTestProject1.csproj", "{1ED7B4EB-6C07-498C-9B8C-377438F47E57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F0110CC-FF30-4C7E-8D49-FEB63919E524}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F0110CC-FF30-4C7E-8D49-FEB63919E524}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F0110CC-FF30-4C7E-8D49-FEB63919E524}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F0110CC-FF30-4C7E-8D49-FEB63919E524}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ED7B4EB-6C07-498C-9B8C-377438F47E57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ED7B4EB-6C07-498C-9B8C-377438F47E57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ED7B4EB-6C07-498C-9B8C-377438F47E57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ED7B4EB-6C07-498C-9B8C-377438F47E57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7949EAA-8CFA-4CA3-A7C9-557515F19D25}
+	EndGlobalSection
+EndGlobal
